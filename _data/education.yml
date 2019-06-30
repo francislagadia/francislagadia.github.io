@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: [Don Bosco Technical College](https://dbmanda.one-bosco.org)
+  dates: 2005 - 2010)
+  qualification: BS Electronics and Communications Engineering
   quote: >
-    Short institution or course description (optional)
+    Philippines
   description: | # this will include new lines to allow paragraphs
     Description of qualification
