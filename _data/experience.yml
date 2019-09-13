@@ -4,7 +4,34 @@
   link: https://www.chromeriver.com
   job_title: Associate Software Development Engineer in Test
   dates: October 2018 - present
-  quote: >
-   delivers the best expense management software and expense report software
+#  quote: >
+#   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
     Write and implement microservice intgration tests to increase test coverage through existing and new infrastructure
+    
+- layout: left
+  company: Transplant Connect
+  link: https://transplantconnect.com
+  job_title: Software QA Analyst
+  dates: November 2017 - October 2018
+#  quote: >
+#   delivers the best expense management software and expense report software
+  description: | # this will include new lines to allow paragraphs
+    Test and report issues for a Patient Information System web application. Implemented a browser automation framework using Page Object Model and Selenium initially in Python and then ported over to C#.
+
+- layout: left
+  company: SQASquared
+  link: http://sqasquared.com
+  job_title: Associate Software Development Engineer in Test
+  dates: February 2017 - September 2017
+#  quote: >
+#   delivers the best expense management software and expense report software
+  description: | # this will include new lines to allow paragraphs
+    Served as point of contact for onsite members in identifying, realizing, and executing test cases and create reports and feedback for failing and undocumented behavior of system under test for different clients such as:
+
+  - Ticketmaster
+  -- Regression automation maintenance using HTML, CSS, Java, Cucumber, and Selenium
+  -- Automated API testing using Postman thru Javascript
+  -Advantage Sales and Marketing
+  -- Web app testing using TFS and MS SQL Server
+  -- Angular web app test automation using Python and PyTractor
