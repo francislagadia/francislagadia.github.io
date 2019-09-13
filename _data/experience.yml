@@ -7,7 +7,8 @@
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Write and implement microservice intgration tests to increase test coverage through existing and new infrastructure
+    Write and implement microservice intgration tests to increase test coverage through existing and new infrastructure.
+    Test framework stack: Python and Pytest
     
 - layout: left
   company: Transplant Connect
@@ -18,7 +19,7 @@
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
     Test and report issues for a Patient Information System web application. Implemented a browser automation framework using
-    Page Object Model and Selenium initially in Python and then ported over to C#.
+    Page Object Model and Selenium initially in Python and then ported over to C#
 
 - layout: left
   company: SQASquared
@@ -29,10 +30,10 @@
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
     Served as point of contact for onsite members in identifying, and executing test cases and create reports and feedback for
-    failing and undocumented behavior of system under test for different clients such as Ticketmaster and Advantage Sales and Marketing.
+    failing and undocumented behavior of system under test for different clients such as Ticketmaster and Advantage Sales and Marketing
     - Regression automation maintenance (HTML, CSS, Java, Cucumber, and Seleniuim stack)
     - Automated API testing using Postman and Javascript
-    - Angular web app test automation using Python and PyTractor.
+    - Angular web app test automation using Python and PyTractor
 
 - layout: left
   company: Nokia Networks
@@ -42,7 +43,7 @@
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Part of LTE Tools team providing feature update and maintenance for internal tools for the DOCOMO project.
+    Part of LTE Tools team providing feature update and maintenance for internal tools for the DOCOMO project
     - Designed and implemented commandline interface adapters for legacy Windows applications for integration to CI/CD pipeline using Python and Robot Framework
     - Create test libraries for automated functional and regression tests using Robot Framework
     - RTOS(VxWorks) development
