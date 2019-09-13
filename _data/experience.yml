@@ -8,7 +8,7 @@
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
     Write and implement microservice intgration tests to increase test coverage through existing and new infrastructure.
-    Test framework stack: <mark>Python</mark> and <mark>Pytest</mark>
+    Test framework stack: <mark>Python</mark>, <mark>Pytest</mark>
     
 - layout: left
   company: Transplant Connect
@@ -19,7 +19,8 @@
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
     Test and report issues for a Patient Information System web application. Implemented a browser automation framework using
-    Page Object Model and <mark>Selenium</mark> initially in <mark>Python</mark> and then ported over to <mark>C#</mark>
+    Page Object Model
+    Test framework stack: <mark>Selenium>, <mark>Python</mark> then ported over to <mark>C#</mark>
 
 - layout: left
   company: SQASquared
@@ -46,9 +47,8 @@
     Part of LTE Tools team providing feature update and maintenance for internal tools for the DOCOMO project
     - Designed and implemented commandline interface adapters for legacy Windows applications for integration to CI/CD pipeline using <mark>Python</mark> and <mark>Robot Framework</mark>
     - Create test libraries for automated functional and regression tests using <mark>Robot Framework</mark>
-    - RTOS(VxWorks) development
-    - Embedded system development (LKM, device drivers)
-    - Linux and Windows shell scripting
+    - Win32 application development stack: <mark>C++</mark>, <mark>C++Builder</mark>
+    - Embedded system development stack: <mark>VxWorks</mark>, <mark>C</mark>
 
 - layout: left
   company: Fujitsu Ten Solutions Philippines
@@ -58,4 +58,5 @@
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Part of Car Infotainment team and developed LCD display drivers and USB/IPOD interfaces for clients
+    Part of Car Infotainment team and developed LCD display drivers and USB/IPOD interfaces for clients. 
+    - Development stack: <mark>C</mark>, <mark>Windows CE</mark>
