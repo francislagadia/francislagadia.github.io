@@ -40,7 +40,12 @@
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Part of LTE Tools team providing feature update and maintenance for internal tools for the DOCOMO project.<ul class="resume-item-list"><li>Designed and implemented commandline interface adapters for legacy Windows applications for integration to CI/CD pipeline using Python and Robot Framework</li><li>Designed and implemented test libraries for automated functional and regression tests using Robot Framework</li><li>RTOS(VxWorks) development</li><li>Embedded system development (LKM, device drivers)</li><li>Linux and Windows shell scripting</li>
+    Part of LTE Tools team providing feature update and maintenance for internal tools for the DOCOMO project.
+    Designed and implemented commandline interface adapters for legacy Windows applications for integration to CI/CD pipeline using Python and Robot Framework
+    Create test libraries for automated functional and regression tests using Robot Framework
+    RTOS(VxWorks) development
+    Embedded system development (LKM, device drivers)
+    Linux and Windows shell scripting
 
 - layout: left
   company: Fujitsu Ten Solutions Philippines
