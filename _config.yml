@@ -28,7 +28,9 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   I'm an SDET with over 5 years experience currently based in Los Angeles, CA and have worked with enterprise and web-based applications ranging from design, development, and testing.
   I'm currently working for [Chrome River](https://www.chromeriver.com) as part of the integrations team.
+  
   Tools/Libraries I use:
+  - Vim/NeoVim
   - Pytest
   - Locust
   - Hypothesis
