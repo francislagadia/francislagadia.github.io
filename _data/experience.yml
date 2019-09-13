@@ -28,3 +28,23 @@
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
     Served as point of contact for onsite members in identifying, and executing test cases and create reports and feedback for failing and undocumented behavior of system under test for different clients such as:<ul class="resume-item-list"><li>Ticketmaster</li><ul class="resume-item-list"><li>Regression automation maintenance using HTML, CSS, Java, Cucumber, and Selenium</li><li>Automated API testing using Postman and Javascript</li></ul><li>Advantage Sales and Marketing</li><ul><li>Web app testing using TFS and MS SQL Server</li><li>Angular web app test automation using Python and PyTractor</li></ul>
+
+- layout: left
+  company: Nokia Networks
+  link: https://www.nokia.com
+  job_title: Software QA Analyst
+  dates: July 2014 - November 2016
+#  quote: >
+#   delivers the best expense management software and expense report software
+  description: | # this will include new lines to allow paragraphs
+    Part of LTE Tools team providing feature update and maintenance for internal tools for the DOCOMO project.<ul class="resume-item-list"><li>Designed and implemented commandline interface adapters for legacy Windows applications for integration to CI/CD pipeline using Python and Robot Framework</li><li>Designed and implemented test libraries for automated functional and regression tests using Robot Framework</li><li>RTOS(VxWorks) development</li><li>Embedded system development (LKM, device drivers)</li><li>Linux and Windows shell scripting</li>
+
+- layout: left
+  company: Fujitsu Ten Solutions Philippines
+  # link: http://sqasquared.com
+  job_title: Systems Engineer
+  dates: January 2012 - June 2014
+#  quote: >
+#   delivers the best expense management software and expense report software
+  description: | # this will include new lines to allow paragraphs
+    Part of Car Infotainment team and developed LCD display drivers and USB/IPOD interfaces for clients
