@@ -32,7 +32,7 @@
   description: | # this will include new lines to allow paragraphs
     Served as point of contact for onsite members in identifying, and executing test cases and create reports and feedback for
     failing and undocumented behavior of system under test for different clients such as Ticketmaster and Advantage Sales and Marketing
-    - Front-end test framework stack: <mark>Java<mark>, <mark>Cucumber<mark>, <mark>Selenium<mark>
+    - Front-end test framework stack: <mark>Java</mark>, <mark>Cucumber</mark>, <mark>Selenium</mark>
     - Angular web app test framework stack: <mark>Python</mark>, <mark>PyTractor</mark>
 
 - layout: left
