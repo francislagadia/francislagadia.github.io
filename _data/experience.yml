@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Chrome River Technologies
+  link: https://www.chromeriver.com
+  job_title: Associate Software Development Engineer in Test
+  dates: October 2018 - present
   quote: >
-   Short description of the company (optional)
+   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Write and implement microservice intgration tests to increase test coverage through existing and new infrastructure
