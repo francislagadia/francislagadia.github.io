@@ -27,11 +27,4 @@
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Served as point of contact for onsite members in identifying, realizing, and executing test cases and create reports and feedback for failing and undocumented behavior of system under test for different clients such as:
-
-  - Ticketmaster
-  -- Regression automation maintenance using HTML, CSS, Java, Cucumber, and Selenium
-  -- Automated API testing using Postman thru Javascript
-  -Advantage Sales and Marketing
-  -- Web app testing using TFS and MS SQL Server
-  -- Angular web app test automation using Python and PyTractor
+    Served as point of contact for onsite members in identifying, and executing test cases and create reports and feedback for failing and undocumented behavior of system under test for different clients such as:<ul class="resume-item-list"><li>Ticketmaster</li><ul class="resume-item-list"><li>Regression automation maintenance using HTML, CSS, Java, Cucumber, and Selenium</li><li>Automated API testing using Postman and Javascript</li></ul><li>Advantage Sales and Marketing</li><ul><li>Web app testing using TFS and MS SQL Server</li><li>Angular web app test automation using Python and PyTractor</li></ul>
