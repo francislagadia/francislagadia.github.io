@@ -17,43 +17,37 @@
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Test and report issues for a Patient Information System web application. Implemented a browser automation framework using Page Object Model and Selenium initially in Python and then ported over to C#.
+    Test and report issues for a Patient Information System web application. Implemented a browser automation framework using
+    Page Object Model and Selenium initially in Python and then ported over to C#.
 
 - layout: left
   company: SQASquared
   link: http://sqasquared.com
-  job_title: Associate Software Development Engineer in Test
+  job_title: Junior QA Analyst II
   dates: February 2017 - September 2017
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Served as point of contact for onsite members in identifying, and executing test cases and create reports and feedback for failing and undocumented behavior of system under test for different clients such as Ticketmaster and Advantage Sales and Marketing. Tasks include:
-    
-    Regression automation maintenance (HTML, CSS, Java, Cucumber, and Seleniuim stack)
-    
-    Automated API testing using Postman and Javascript
-    
-    Angular web app test automation using Python and PyTractor.
+    Served as point of contact for onsite members in identifying, and executing test cases and create reports and feedback for
+    failing and undocumented behavior of system under test for different clients such as Ticketmaster and Advantage Sales and Marketing.
+    - Regression automation maintenance (HTML, CSS, Java, Cucumber, and Seleniuim stack)
+    - Automated API testing using Postman and Javascript
+    - Angular web app test automation using Python and PyTractor.
 
 - layout: left
   company: Nokia Networks
   link: https://www.nokia.com
-  job_title: Software QA Analyst
+  job_title: R&D Engineer
   dates: July 2014 - November 2016
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
     Part of LTE Tools team providing feature update and maintenance for internal tools for the DOCOMO project.
-    
-    Designed and implemented commandline interface adapters for legacy Windows applications for integration to CI/CD pipeline using Python and Robot Framework
-    
-    Create test libraries for automated functional and regression tests using Robot Framework
-    
-    RTOS(VxWorks) development
-    
-    Embedded system development (LKM, device drivers)
-    
-    Linux and Windows shell scripting
+    - Designed and implemented commandline interface adapters for legacy Windows applications for integration to CI/CD pipeline using Python and Robot Framework
+    - Create test libraries for automated functional and regression tests using Robot Framework
+    - RTOS(VxWorks) development
+    - Embedded system development (LKM, device drivers)
+    - Linux and Windows shell scripting
 
 - layout: left
   company: Fujitsu Ten Solutions Philippines
