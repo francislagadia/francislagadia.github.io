@@ -12,6 +12,7 @@ email: francislagadia@gmail.com
 # Social links
 #twitter_username: jekyllrb
 github_username:  francislagadia
+github_username:  frclagadia
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -30,12 +31,10 @@ about_content: | # this will include new lines to allow paragraphs
   I'm currently working for [Chrome River](https://www.chromeriver.com) as part of the integrations team.
   
   Tools/Libraries I use:
-  - Vim/NeoVim
   - Pytest
   - Locust
   - Hypothesis
-  - Postman
-  - JMeter
+  - Vim/NeoVim
 #  Currently focusing on test automation using open-source test frameworks.
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 #    - Lists
@@ -55,9 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+ In my spare time I tinker around with Unraid[Unraid](https://unraid.net) setting up <mark>Grafana</mark>, <mark>Telegraf</mark>, and <mark>InfluxDB</mark>.
+ Play PC games and watch Magic: The Gathering tournament streams.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
