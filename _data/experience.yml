@@ -20,7 +20,8 @@
   description: | # this will include new lines to allow paragraphs
     Test and report issues for a Patient Information System web application. Implemented a browser automation framework using
     Page Object Model
-    - Test framework stack: <mark>Selenium</mark>, <mark>Python</mark> then ported over to <mark>C#</mark>
+    - Test framework stack: Designed and created with <mark>Selenium</mark>, <mark>Python</mark>,
+    <mark>unittest</mark> then ported over to <mark>C#</mark> and <mark>nUnit</mark>
 
 - layout: left
   company: SQASquared
