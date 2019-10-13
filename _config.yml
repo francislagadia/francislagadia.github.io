@@ -11,8 +11,7 @@ email: francislagadia@gmail.com
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  francislagadia
-github_username:  frclagadia
+github_username:  fczero
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -27,14 +26,16 @@ linkedin_username: frclagadia
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I'm an SDET with over 5 years experience currently based in Los Angeles, CA and have worked with enterprise and web-based applications ranging from design, development, and testing.
+  I'm an SDET with over 5 years experience having worked with enterprise and web-based apps.
+  Apart from testing and QA I also have experience in design and development.
+  
   I'm currently working for [Chrome River](https://www.chromeriver.com) as part of the integrations team.
   
   Tools/Libraries I use:
-  - Pytest
-  - Locust
-  - Hypothesis
-  - Vim/NeoVim
+  - <mark>PyTest</mark>
+  - <mark>Locust</mark>
+  - <mark>Hypothesis</mark>
+  - <mark>Neovim</mark>
 #  Currently focusing on test automation using open-source test frameworks.
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 #    - Lists
