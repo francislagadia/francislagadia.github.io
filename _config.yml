@@ -24,7 +24,7 @@ linkedin_username: frclagadia
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm an SDET with over 5 years experience having worked with enterprise and web-based apps.
   Apart from testing and QA I also have experience in design and development.
