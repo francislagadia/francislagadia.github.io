@@ -7,7 +7,7 @@
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Write and implement microservice intgration tests to increase test coverage through existing and new infrastructure.
+    Write and implement microservice integration tests to increase test coverage through existing and new infrastructure.
     - Test framework stack: <mark>Python</mark>, <mark>Pytest</mark>
     
 - layout: left
