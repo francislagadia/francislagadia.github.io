@@ -7,8 +7,9 @@
 #  quote: >
 #   delivers the best expense management software and expense report software
   description: | # this will include new lines to allow paragraphs
-    Write and implement microservice integration tests to increase test coverage through existing and new infrastructure.
-    - Test framework stack: <mark>Python</mark>, <mark>Pytest</mark>
+    Build and enhance automated tests including harnesses and infrastructure for the integrations team. Work with CI/CD and build pipelines.
+    Advocating quality tasks during sprint cycle. Perform load testing using <mark>Locust</mark>.
+    - Test framework stack: <mark>Python</mark>, <mark>Pytest</mark>, <mark>AWS</mark>
     
 - layout: left
   company: Transplant Connect
