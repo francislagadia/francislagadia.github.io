@@ -55,8 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
- In my spare time I tinker around with [Unraid](https://unraid.net) setting up <mark>Grafana</mark>, <mark>Telegraf</mark>, and <mark>InfluxDB</mark>.
- Play PC games and watch Magic: The Gathering tournament streams.
+ In my spare time I tinker with my [Unraid](https://unraid.net) server, play PC games, watch Magic: The Gathering streams, and update my Neovim config file.
 
 
 # Footer
